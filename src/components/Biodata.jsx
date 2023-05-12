@@ -18,7 +18,7 @@ export default function Biodata() {
               Full name
             </dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-              Margot Foster
+              Fareez Iqmal
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -26,7 +26,7 @@ export default function Biodata() {
               Application for
             </dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-              Backend Developer
+              Frontend Developer, Mechatronics Engineer
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -34,7 +34,7 @@ export default function Biodata() {
               Email address
             </dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-              margotfoster@example.com
+              hello@iqfareez.com
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -42,7 +42,7 @@ export default function Biodata() {
               Salary expectation
             </dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-              $120,000
+              RM 4000
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
@@ -50,11 +50,15 @@ export default function Biodata() {
               About
             </dt>
             <dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-              Fugiat ipsum ipsum deserunt culpa aute sint do nostrud anim
-              incididunt cillum culpa consequat. Excepteur qui ipsum aliquip
-              consequat sint. Sit id mollit nulla mollit nostrud in ea officia
-              proident. Irure nostrud pariatur mollit ad adipisicing
-              reprehenderit deserunt qui eu.
+              I am final year student studying Mechatronics Engineering. I am
+              passionate about the integration of mechanical, electrical, and
+              computer engineering to create intelligent systems. Through
+              internships and projects, I have gained practical experience and
+              honed my technical skills. I enjoy staying active through sports
+              and outdoor activities to maintain a balanced lifestyle. Overall,
+              I am excited to make a meaningful impact in the field of
+              mechatronics engineering with my technical skills, collaborative
+              spirit, and passion for innovation.
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
